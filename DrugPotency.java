@@ -1,7 +1,6 @@
 /*This program is about the certain of drug looses 4% of its effectiveness every month it is in storage. When its effectiveness is below 50% it is considered expired and must be discarded. 
  * Written by: Janelie S. Blanco BSCS 1A */
 
-import java.beans.FeatureDescriptor;
 import java.text.DecimalFormat;
 
 public class DrugPotency {
